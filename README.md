@@ -17,8 +17,8 @@ You only need a laptop.
 With current restrictions on in-person events, the workshop will run remotely, but still as hands-on and interactive as we can make it.
 
 ### Current workshops available to book.
-- Control Shift event in Bristol
-- bath Digtal Festival
+- [Control Shift event in Bristol](https://www.control-shift.network/programme.html)
+- [Bath Digtal Festival](https://bathdigitalfestival.co.uk/)
 
 More details to follow
 
