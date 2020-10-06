@@ -17,7 +17,7 @@ You only need a laptop.
 With current restrictions on in-person events, the workshop will run remotely, but still as hands-on and interactive as we can make it.
 
 ### Slides and notes from recent workshops
-[Control Shift workshop 5/10/20](Notes from Control Shift workshop 0501020.md)
+[Control Shift workshop 5/10/20](https://github.com/cranbim/AI-for-nervous-humans/blob/master/Notes%20from%20Control%20Shift%20workshop%20051020.md)
 
 ### Current workshops available to book.
 - [Control Shift event in Bristol](https://www.control-shift.network/programme.html)
