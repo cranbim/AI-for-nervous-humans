@@ -18,6 +18,7 @@ With current restrictions on in-person events, the workshop will run remotely, b
 
 ### Slides and notes from recent workshops
 [Control Shift workshop 5/10/20](https://github.com/cranbim/AI-for-nervous-humans/blob/master/Notes%20from%20Control%20Shift%20workshop%20051020.md)
+[Bath Digital Festival workshop 22/10/20](https://github.com/cranbim/AI-for-nervous-humans/blob/master/Notes%20from%20BDF%20Workshop%2022%20October%202020.md)
 
 ### Current workshops available to book.
 - [Control Shift event in Bristol](https://www.control-shift.network/programme.html)
